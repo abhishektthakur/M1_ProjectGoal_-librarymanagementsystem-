@@ -1,2 +1,1 @@
 # M1_ProjectGoal_-librarymanagementsystem
-Badges
